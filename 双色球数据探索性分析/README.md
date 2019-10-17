@@ -1,6 +1,8 @@
 # 历年双色球开奖号码数据探索性分析
 
-red_green_number_sort.txt是记录历年双色球中奖号码信息
+red_green_number_sort.txt是记录历年双色球中奖号码信息。
+
+stat.py是统计历年每期开奖号码出现频率的python程序。
 
 
 ## 中奖号码分布分析
