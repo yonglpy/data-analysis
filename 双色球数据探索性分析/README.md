@@ -2,6 +2,8 @@
 
 red_green_number_sort.txt是记录历年双色球中奖号码信息。
 
+geturl.py是爬取历年双色球中奖号码的python程序，把历年中奖号码保存为excel格式。
+
 stat.py是统计历年每期开奖号码出现频率的python程序。
 
 
