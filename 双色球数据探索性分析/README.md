@@ -13,3 +13,5 @@ red_green_number_sort.txt是记录历年双色球中奖号码信息
 1个蓝色球频率分布：
 
 ![image](data/blue_number_distribution.png)
+
+从中奖号码分布频率来看，每个数字（红色球1-33，蓝色球1-16)出现频率相差大，也就是每个数字是中奖号码概率基本均等，与开奖规则基本保持一致。
