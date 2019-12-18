@@ -12,7 +12,7 @@ import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
 
 #1、加载数据，把特征与结果标签分开
-data = pd.read_csv('D:/数据挖掘项目练习/手写数字识别/data/train.csv')
+data = pd.read_csv('./data/train.csv')
 images = data.iloc[:,1:].values
 labels = data.iloc[:,0].values
 
