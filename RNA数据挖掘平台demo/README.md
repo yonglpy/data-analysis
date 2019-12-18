@@ -46,12 +46,14 @@
 
 ![image](data/Difference_pheatmap.PNG)
 
-对显著性差异基因做KEGG富集分析，并可以筛选
+对显著性差异基因做KEGG富集分析，并可以从富集结果中筛选pathway通路，若显著性差异位于通路中，相应的基因标记为红色。
 
 ![image](data/KEGG_pathway.PNG)
 
 3、显著差异性基因GO富集分析
 
 ![image](data/GO_enrichment.PNG)
+
+GO类之间网络关系
 
 ![image](data/GO.PNG)
