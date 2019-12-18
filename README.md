@@ -1,9 +1,6 @@
-# data-analysis
-Record learning data analysis process
-It mainly includes three data analysis projects:
-
-1, second-hand car price forecast
-
-2, Shenzhen second-hand housing price analysis
-
-3, data analysis, data mining job skills needs analysis
+记录学习数据分析、数据挖掘过程中练习的项目
+1、RNA数据挖掘平台的Demo开发
+2、以往双色球中奖号码的探索性分析
+3、老年痴呆预测模型
+4、tensorflow、keras框架的学习，并完成数字识别模型训练
+5、泰坦尼克号生存模型
