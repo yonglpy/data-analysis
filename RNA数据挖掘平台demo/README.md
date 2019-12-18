@@ -42,7 +42,11 @@
 
 2、显著性差异基因的聚类、KEGG富集分析
 
+对显著性差异基因做聚类分析，并用R包pheatmap做热图。
+
 ![image](data/Difference_pheatmap.PNG)
+
+对显著性差异基因做KEGG富集分析，并可以筛选
 
 ![image](data/KEGG_pathway.PNG)
 
