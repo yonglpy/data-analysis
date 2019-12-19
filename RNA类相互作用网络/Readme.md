@@ -82,7 +82,6 @@ Starbase 数据库：Starbase V3.0提供miRNA调控LncRNA、假基因和circRNA�
 # RNA类相互作用网络图形化结果展示
 
 用python语言实现RNA类相互作用网络图，该[程序](https://github.com/yonglpy/data-analysis/edit/master/RNA%E7%B1%BB%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8%E7%BD%91%E7%BB%9C/RNA_network.py)可以根据输入mRNA的symbol的ID找到与之有调控关系的miRNA,然后再遍历miRNA,找到与miRNA有调控
-
 关系的lncRNA和circRNA。当然也可以同时输入lncRNA、circRNA、miRNA和mRNA相应的ID，也可以输入他们之间任意ID，即可实现相互作用网络图。
 
 结果如下图：
