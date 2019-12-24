@@ -1,0 +1,6 @@
+存放训练和测试数据集
+
+其中egemaps_pre.csv文件包含所有数据，里面有带有标签的179个样本特征数据，没有带标签的27样本。然后把这个文件分成2个文件，一个训练数据集、一个是测试数据集
+
+1_preliminary_list_test.csv存放了测试数据集的样本ID，1_preliminary_list_train.csv存放了训练数据集样本ID以及样本标签
+
